@@ -20,8 +20,6 @@ pip install opencv-python tkinter pillow
 2. Click **"Encode Image"** to hide a message in an image.
 3. Click **"Decode Image"** to retrieve a hidden message.
 
-## Screenshots
-*(Add screenshots here if needed)*
 
 ## License
 This project is **open-source** and free to use.
